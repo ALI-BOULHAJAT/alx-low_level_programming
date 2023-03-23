@@ -11,8 +11,11 @@
  */
 int main(void)
 {
-	char alphabet = 'a';
-	while (alphabet <= 'z') {
+	char alphabet;
+
+	alphabet = 'a';
+	while (alphabet <= 'z')
+	{
 		putchar(alphabet);
 		alphabet++;
 	}
