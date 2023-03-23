@@ -7,6 +7,16 @@
 /* Program assign a random number and detect */
 /* if the number is negative or positive or null */
 
+/**
+ * main - Entry point
+ *
+ * This function prompts the user to enter an integer, and then determines 
+ * whether the integer is positive, negative, or zero. It prints a message
+ * to the console indicating the result.
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 	int n;
