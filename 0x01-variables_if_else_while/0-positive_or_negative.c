@@ -1,21 +1,16 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
 
-/* description for main function */
-/* Program assign a random number and detect */
-/* if the number is negative or positive or null */
 
 /**
- * main - Entry point
+ * main
  *
- * This function prompts the user to enter an integer, and then determines 
- * whether the integer is positive, negative, or zero. It prints a message
- * to the console indicating the result.
+ * Program assign a random number to the variable n and detect 
+ * if the number is negative or positive or null
  *
- * Return: Always 0 (Success)
- */
+ * Return: random number and his type (negative - positive - null)
+ *
 
 int main(void)
 {
@@ -37,3 +32,4 @@ int main(void)
 	}
 	return (0);
 }
+
