@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main
+ * main - Entry point
  *
  * Program assign a random number to the variable n and detect
  * if the number is negative or positive or null
