@@ -5,9 +5,9 @@
  * main - Entry point
  *
  * Program assign a random number to the variable n and detect
- * if the number is negative or positive or null
+ * if the last digit of the number was greater that 5 or is 0 or is less than 6
  *
- * Return: random number and his type (negative - positive - null)
+ * Return: random number and his last digit
  *
  */
 int main(void)
