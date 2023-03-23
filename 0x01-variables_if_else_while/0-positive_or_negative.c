@@ -3,6 +3,7 @@
 #include <stdio.h>
 /* more headers goes there */
 
+/* description for main function */
 /* Program assign a random number and detect */
 /*if the number is negative or positive or null */
 int main(void)
