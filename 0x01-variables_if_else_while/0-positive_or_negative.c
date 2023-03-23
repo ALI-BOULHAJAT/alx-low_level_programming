@@ -11,6 +11,7 @@
  *
  * Return: random number and his type (negative - positive - null)
  *
+ */
 
 int main(void)
 {
