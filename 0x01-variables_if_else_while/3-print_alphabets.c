@@ -4,7 +4,8 @@
 /**
  * main - Entry point
  *
- * Program print the alphabet in lower case and then in uppercase followed by new line
+ * Program print the alphabet in lower case
+ * and then in uppercase followed by new line
  *
  * Return: 0 (Success)
  *
